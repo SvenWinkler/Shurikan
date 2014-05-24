@@ -1,4 +1,4 @@
-package org.jedev.domain.org.jedev.control;
+package org.jedev.control;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
