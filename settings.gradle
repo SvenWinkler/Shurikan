@@ -1,2 +1,4 @@
 include 'module'
 
+include 'katana'
+
