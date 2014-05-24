@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : shurikan:katana : katana-1.0.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/katana</output-path>
+    <root id="archive" name="katana-1.0.war">
+      <element id="javaee-facet-resources" facet="katana/web/Web Gradle : katana-1.0.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="katana" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/katana/exploded/katana-1.0.war/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
