@@ -7,6 +7,10 @@
         <element id="directory" name="classes">
           <element id="module-output" name="katana" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: guava-17.0" />
+          <element id="library" level="project" name="Gradle: joda-time-2.3" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/katana/exploded/katana-1.0.war/META-INF/MANIFEST.MF" />
