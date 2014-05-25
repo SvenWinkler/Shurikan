@@ -1,7 +1,5 @@
 package org.jedev.domain;
 
-import org.jedev.domain.backlog.Backlog;
-
 /**
  * A product is encapsulates the development.
  * So a product has a team which develops it.
@@ -17,7 +15,8 @@ public class Product {
 
 	private String name;
 	private String description;
+	private ProductConfiguration config;
 
-	private Backlog productBacklog;
+	private InputQueue inputQueue;
 	private Team team;
 }

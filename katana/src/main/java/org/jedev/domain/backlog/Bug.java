@@ -3,6 +3,6 @@ package org.jedev.domain.backlog;
 /**
  * Created by svnwnk on 25/05/14.
  */
-public class Bug {
+public class Bug extends BacklogItemTemplate {
 
 }
