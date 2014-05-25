@@ -1,4 +1,4 @@
-package org.jedev.domain.backlog;
+package org.jedev.domain.backlog.items;
 
 /**
  * Created by svnwnk on 25/05/14.

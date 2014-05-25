@@ -1,5 +1,6 @@
-package org.jedev.domain.backlog;
+package org.jedev.domain.backlog.items;
 
+import org.jedev.domain.backlog.BacklogItem;
 import org.jedev.util.TimeTrackable;
 import org.joda.time.DateTime;
 import java.math.BigInteger;

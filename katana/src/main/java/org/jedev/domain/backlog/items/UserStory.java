@@ -1,6 +1,4 @@
-package org.jedev.domain.backlog;
-
-import java.math.BigInteger;
+package org.jedev.domain.backlog.items;
 
 /**
  * Created by svnwnk on 24/05/14.
