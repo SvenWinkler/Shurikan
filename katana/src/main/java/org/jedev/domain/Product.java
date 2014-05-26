@@ -5,7 +5,7 @@ package org.jedev.domain;
  * So a product has a team which develops it.
  * It should have a backlog, so we know what to do.
  *
- * Maybe - later on - we are able to link different products together and integrate their backogs.
+ * Maybe - later on - we are able to link different products together and integrate their backlogs.
  *
  * So far that's it...
  *
