@@ -17,8 +17,8 @@ import java.io.IOException;
 public class BacklogServlet extends HttpServlet {
 
 	@Override
-	protected void doGet(HttpServletRequest request, HttpServletResponse resp) throws ServletException, IOException {
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
-		resp.getWriter().write("Backlog");
+		response.getWriter().write("Backlog");
 	}
 }
